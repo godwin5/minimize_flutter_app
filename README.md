@@ -6,16 +6,14 @@ A Flutter plugin that allows you to minimize your Flutter application (move it t
 
 * Android
 
-
 ## Installation
 
 Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  minimize_flutter_app: ^1.0.0
+  minimize_flutter_app: ^0.0.1
 ```
-
 
 ## Usage
 
@@ -24,7 +22,6 @@ First, import the package:
 ```da
 import 'package:minimize_flutter_app/minimize_flutter_app.dart';
 ```
-
 
 Then use it in your code:
 
