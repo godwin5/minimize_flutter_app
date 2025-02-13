@@ -1,6 +1,6 @@
 name: minimize_flutter_app
 description: "A Flutter plugin that allows you to minimize your Flutter application (move it to background) on Android devices."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/godwin5/minimize_flutter_app
 
 environment:
